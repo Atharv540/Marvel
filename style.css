@@ -1,0 +1,52 @@
+#charactersButton{
+    height: 250px; 
+    width: 450px; 
+    background-color: rgb(233, 224, 224); 
+    border: none;
+    outline: none;
+}
+#charactersButton:hover{
+    background-color: rgb(190, 206, 198);
+    transition-duration: 0.7s;
+}
+#trailersButton{
+    height: 250px; 
+    width: 450px; 
+    background-color: rgb(233, 224, 224); 
+    border: none;
+    outline: none;
+}
+#trailersButton:hover{
+    background-color: rgb(190, 206, 198);
+    transition-duration: 0.7s;
+}
+.actedBy{
+    background-color: rgb(231, 174, 18);
+    margin-left: -8px;
+    margin-top: -25px;
+    margin-right: -8px;
+}
+.character{
+    background-color: rgb(231, 227, 18);
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.trailer{
+    background-color: rgb(18, 164, 231);
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.movies{
+    background-color: rgb(231, 18, 18);
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.creators{
+    background-color: rgb(231, 18, 196);
+    margin-left: -8px;
+    margin-top: -18px;
+    margin-right: -8px;
+}
+
+
+
